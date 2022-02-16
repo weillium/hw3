@@ -1,1 +1,6 @@
 /* Application styles */
+
+:root { 
+    margin: 0;
+    color: yellow; 
+}
